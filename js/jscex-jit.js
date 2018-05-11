@@ -1380,7 +1380,7 @@
             init(root);
         }
     } else if (isAmd) {
-        define("jscex-jit", ["jscex-parser"], function (parser) {
+        define("jscex-jit", ["js/jscex-parser"], function (parser) {
             return {
                 init: function (root) {
                     if (!root.modules["parser"]) {
