@@ -2,7 +2,7 @@
 <img src="http://chuantu.biz/t6/310/1526112102x-1566688413.png" alt="Material Render Phone">
 </p>
 
-<h1 align="center"><a href="http://tomxin.cn" target="_blank">Tomxin7 </a></h1>
+<h1 align="center"><a href="http://blog.tomxin.cn" target="_blank">Tomxin7 </a></h1>
 
 > Simple, Interesting | 简单，有趣
 
