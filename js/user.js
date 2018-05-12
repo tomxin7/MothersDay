@@ -7,15 +7,14 @@ function getQueryVariable(key){
 $(function () {
     var nickname = getQueryVariable("nickname");
     var name = getQueryVariable("name");
-    var year = getQueryVariable("year");
-    var month = getQueryVariable("month");
-    var day = getQueryVariable("day");
+    var birthday = getQueryVariable("birthday");
+    var year = birthday.substr(0, 4);
+    var month = birthday.substr(5, 2);
+    var day = birthday.substr(8, 2);
     $('#nickname').text(nickname);
     $('#name').text(name);
-
     (function(){
         var canvas = $('#canvas');
-
         if (!canvas[0].getContext) {
             $("#error").show();
             return false;

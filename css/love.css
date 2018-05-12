@@ -1,5 +1,10 @@
 .logo{
-    margin-left: 60px;
+    margin-left: 70px;
+    font-size:20px;
+}
+
+.inputs {
+    margin-top: 30px;
 }
 .brief {
     margin-left: 60px;
@@ -7,4 +12,35 @@
 }
 .poetry {
     margin-left: 40px;
+}
+.pfont {
+    font-size:50px;
+}
+
+.inputmar {
+    margin-left: 60px;
+}
+
+
+.input {
+    aligan: center;
+}
+.but{
+     text-align: center;
+ }
+
+.butcop{
+    text-align: center;
+}
+
+.mfont{
+    font-family:”KaiTi”
+}
+
+.comment {
+    margin-top: 30px;
+}
+.footer1 {
+    margin-top: 60px;
+    text-align:center;
 }
