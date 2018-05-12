@@ -17,22 +17,22 @@
 
 
 #### DEMO
-> http://letter.tomxin.cn/gift.html?nickname=%E4%BD%A0%E7%9A%84%E5%AE%9D%E8%B4%9D&name=%E5%B0%8F%E9%99%88%E9%99%88&birthday=1995-02-02
+> http://letter.tomxin.cn/gift.html?nickname=%E4%BD%A0%E7%9A%84%E5%AE%9D%E8%B4%9D&name=%E5%B0%8F%E9%99%88%E9%99%88&birthday=1995-01-01
 
-![image](http://chuantu.biz/t6/310/1526113182x-1404755546.png)
 #### 使用教程
 > 生成专属链接：http://letter.tomxin.cn/
 
 #### 获取源码
 
 ```
-- git clone https://github.com/tomxin7/MothersDay
+- GitHub地址：https://github.com/tomxin7/MothersDay
 ```
-
+#### 已知BUG
+> iphone微信打开后，无法播放背景音乐
 
 #### 项目出处
 
-> 其实很早之前见过这个项目，可是找不到出处了，这里修改的是wisdombyzf同学的代码，感谢作者。
+> 其实很早之前见过这个项目，可是找不到出处，这里修改的是wisdombyzf同学的代码，感谢作者。
 
 ```
 - GitHub地址：https://github.com/wisdombyzf/ForMother
